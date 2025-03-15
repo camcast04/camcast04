@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I am a full-stack developer who loves making beautiful and responsive web apps
+I am a full-stack developer who loves making beautiful and responsive application
 
-* 🌍  I'm based in Miami
+* 🌍  I'm based in San Jose
 * ✉️  You can contact me at [cam.cast04@gmail.com](mailto:cam.cast04@gmail.com)
 * 🧠  c++ and react native developer 
 * 🤝  I'm open to collaborating on projects
