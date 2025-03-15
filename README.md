@@ -8,7 +8,7 @@ I am a full-stack developer who loves making beautiful and responsive web apps
 
 * 🌍  I'm based in Miami
 * ✉️  You can contact me at [cam.cast04@gmail.com](mailto:cam.cast04@gmail.com)
-* 🧠  I'm learning React
+* 🧠  c++ and react native developer 
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
